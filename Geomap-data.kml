@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">																																								
+    <Document>
+  <name>Announced projects 10 for TEST</name>
+  <description>Program funding and project's funding amount</description>																																				  
+        <Folder>
+            <name>Funding program</name>
+            <Placemark>
+                <Client>Pacific National Exhibition</Client>
+                <Funding program>Major Festivals and Events Support Initiative</Fundingprogram>
+                <Project>Pandemic adaptation and modernization for Pacific National Exhibition - Budget 2021</Project>
+                <Funding amount>$ 10,000,000</Fundingamount>
+                <Rank>1</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/MFESI.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-123.1207,49.2827,0</coordinates>
+                </Point>
+            </Placemark>
+                <Client>Loop Energy Inc.</Client>
+                <Funding program>Jobs and Growth Fund</Fundingprogram>
+                <Project>Increase Manufacturing of Hydrogen Fuel Cell Stacks &#38; Modules - Budget 2021</Project>
+                <Funding amount>$ 9,750,000</Fundingamount>
+                <Rank>2</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/JGF.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-122.9805,49.2488,0</coordinates>
+                </Point>
+            </Placemark>
+            </Placemark>
+                <Client>Community Futures Development Association of B.C.</Client>
+                <Funding program>Western Diversification Program</Fundingprogram>
+                <Project>Implement a disaster recovery and economic adjustment initiative in British Columbia</Project>
+                <Funding amount>$ 5,566,480</Fundingamount>
+                <Rank>3</Rank>
+                <img src="https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/WD.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-122.3262,49.1329,0</coordinates>
+                </Point>
+            </Placemark>
+            </Placemark>
+                <Client>Acuva Technologies Inc.</Client>
+                <Funding program>Business Scale Up and Productivity</Fundingprogram>
+                <Project>Commercialize Ultraviolet Light Emitting Diode water and surface disinfection technologies</Project>
+                <Funding amount>$ 3,000,000</Fundingamount>
+                <Rank>4</Rank>
+                <img src="https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/BSP.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-122.9805,49.2488,0</coordinates>
+                </Point>
+					<Placemark>
+                <Client>Chinook Helicopters (1982) Ltd.</Client>
+                <Funding program>Regional Air Transportation Initiative</Fundingprogram>
+                <Project>Develop and commercialize Virtual Reality Training and Simulation system - Budget 2021</Project>
+                <Funding amount>$1,171,800</Fundingamount>
+                <Rank>1</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/MFESI.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-122.3045, 49.0504</coordinates>
+                </Point>
+            </Placemark>
+						<Placemark>
+                <Client>Simon Fraser University</Client>
+                <Funding program>Regional Innovation Ecosystem</Fundingprogram>
+                <Project>Increase capacity at Simon Fraser University's Big Data Hub to support SME growth</Project>
+                <Funding amount>$599,000 </Fundingamount>
+                <Rank>1</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/MFESI.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-122.9805, 49.2488</coordinates>
+                </Point>
+                </Placemark>
+								<Placemark>
+                <Client>Ahousaht First Nations</Client>
+                <Funding program>Canada Community Revitalization Fund</Fundingprogram>
+                <Project>Renovate Thunderbird Hall in Ahousaht, BC - Budget 2021</Project>
+                <Funding amount>$139,458 </Fundingamount>
+                <Rank>1</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/MFESI.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-126.0564, 49.2762</coordinates>
+                </Point>
+                </Placemark>
+				<Placemark>
+                <Client>1346417 BC LTD.</Client>
+                <Funding program>Tourism Relief Fund</Fundingprogram>
+                <Project>Upgrade rodeo venue infrastructure for tourism in 150 Mile House, BC- Budget 2021</Project>
+                <Funding amount>$99,999</Fundingamount>
+                <Rank>1</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/MFESI.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-121.9283, 52.1041</coordinates>
+                </Point>
+            </Placemark>
+				<Placemark>
+                <Client>District of 100 Mile House</Client>
+                <Funding program>Tourism Relief Fund</Fundingprogram>
+                <Project>Develop a tourism asset inventory, wayfinding strategy and e-bike service - Budget 2021</Project>
+                <Funding amount>$40,630</Fundingamount>
+                <Rank>1</Rank>
+                <img src="	https://www.canada.ca/content/dam/ped-dep/images/services/dynamic-map/MFESI.png">
+				<Link><href>https://www.canada.ca/#</href></Link>
+                <Point>
+                    <coordinates>-121.2950, 51.6440</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
