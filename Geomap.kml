@@ -31,7 +31,7 @@
 			<SimpleData name="Amount">9750000</SimpleData>
 			<SimpleData name="Client">Loop Energy Inc. </SimpleData>
 			<SimpleData name="Program">Jobs and Growth Fund </SimpleData>
-			<SimpleData name="Project">Increase Manufacturing of Hydrogen Fuel Cell Stacks & Modules - Budget 2021 </SimpleData>
+			<SimpleData name="Project">Increase Manufacturing of Hydrogen Fuel Cell Stacks and Modules - Budget 2021 </SimpleData>
 		</SchemaData>
 	</ExtendedData>
 	<Point>
@@ -311,7 +311,7 @@
 			<SimpleData name="Amount">9750000</SimpleData>
 			<SimpleData name="Client">Loop Energy Inc. </SimpleData>
 			<SimpleData name="Program">Jobs and Growth Fund </SimpleData>
-			<SimpleData name="Project">Increase Manufacturing of Hydrogen Fuel Cell Stacks & Modules - Budget 2021 </SimpleData>
+			<SimpleData name="Project">Increase Manufacturing of Hydrogen Fuel Cell Stacks and Modules - Budget 2021 </SimpleData>
 		</SchemaData>
 	</ExtendedData>
 	<Point>
@@ -1417,7 +1417,7 @@
 		<SchemaData schemaUrl="#Projects">
 			<SimpleData name="OBJECTID">101</SimpleData>
 			<SimpleData name="Amount">90000</SimpleData>
-			<SimpleData name="Client">Parksville & District Historical Society</SimpleData>
+			<SimpleData name="Client">Parksville and District Historical Society</SimpleData>
 			<SimpleData name="Program">Canada Community Revitalization Fund</SimpleData>
 			<SimpleData name="Project">Construct new entrance pavilion at the Parksville Museum, BC - Budget 2021 </SimpleData>
 		</SchemaData>
@@ -1461,7 +1461,7 @@
 			<SimpleData name="Amount">200000</SimpleData>
 			<SimpleData name="Client">The Corporation of the City of Penticton</SimpleData>
 			<SimpleData name="Program">Canada Community Revitalization Fund</SimpleData>
-			<SimpleData name="Project">Develop accessible washrooms in Riverside Park & downtown Penticton, BC - Budget 2021 </SimpleData>
+			<SimpleData name="Project">Develop accessible washrooms in Riverside Park and downtown Penticton, BC - Budget 2021 </SimpleData>
 		</SchemaData>
 	</ExtendedData>
 	<Point>
@@ -1601,7 +1601,7 @@
 			<SimpleData name="Amount">750000</SimpleData>
 			<SimpleData name="Client">Fraser-Fort George Museum Society</SimpleData>
 			<SimpleData name="Program">Canada Community Revitalization Fund</SimpleData>
-			<SimpleData name="Project">Renovate the Exploration Place Museum & Science Centre in Prince George, BC - Budget 2021 </SimpleData>
+			<SimpleData name="Project">Renovate the Exploration Place Museum and Science Centre in Prince George, BC - Budget 2021 </SimpleData>
 		</SchemaData>
 	</ExtendedData>
 	<Point>
@@ -1851,7 +1851,7 @@
 		<SchemaData schemaUrl="#Projects">
 			<SimpleData name="OBJECTID">132</SimpleData>
 			<SimpleData name="Amount">5000000</SimpleData>
-			<SimpleData name="Client">HTEC Hydrogen Technology & Energy Corporation</SimpleData>
+			<SimpleData name="Client">HTEC Hydrogen Technology and Energy Corporation</SimpleData>
 			<SimpleData name="Program">Business Scale Up and Productivity</SimpleData>
 			<SimpleData name="Project">Build a Green Hydrogen Production Plant in BC</SimpleData>
 		</SchemaData>
@@ -2481,7 +2481,7 @@
 		<SchemaData schemaUrl="#Projects">
 			<SimpleData name="OBJECTID">177</SimpleData>
 			<SimpleData name="Amount">400000</SimpleData>
-			<SimpleData name="Client">Pacific Coastal Cruises & Tours LTD.</SimpleData>
+			<SimpleData name="Client">Pacific Coastal Cruises and Tours LTD.</SimpleData>
 			<SimpleData name="Program">Tourism Relief Fund </SimpleData>
 			<SimpleData name="Project">Rebuild vessel and relaunch cruise operations along the BC coast - Budget 2021 </SimpleData>
 		</SchemaData>
@@ -2509,7 +2509,7 @@
 		<SchemaData schemaUrl="#Projects">
 			<SimpleData name="OBJECTID">179</SimpleData>
 			<SimpleData name="Amount">94915</SimpleData>
-			<SimpleData name="Client">O'Keefe Ranch & interior Heritage Society</SimpleData>
+			<SimpleData name="Client">O'Keefe Ranch and interior Heritage Society</SimpleData>
 			<SimpleData name="Program">Canada Community Revitalization Fund</SimpleData>
 			<SimpleData name="Project">Create glamping accommodation at O'Keefe Ranch Historic Site in Vernon, BC - Budget 2021 </SimpleData>
 		</SchemaData>
