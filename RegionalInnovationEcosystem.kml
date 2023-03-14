@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Projects</name>
+<Schema name="Projects" id="Projects">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Amount" type="string"></SimpleField>
+	<SimpleField name="Project" type="string"></SimpleField>
+	<SimpleField name="Client" type="string"></SimpleField>
+	<SimpleField name="Program_" type="string"></SimpleField>
+</Schema>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">2</SimpleData>
+			<SimpleData name="Amount">$10,000,000</SimpleData>
+			<SimpleData name="Project">Create an Agtech Innovation Sandbox (AGIS) to scale up and commercialize agtech in BC</SimpleData>
+			<SimpleData name="Client">Simon Fraser University</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.849,49.191299999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">5</SimpleData>
+			<SimpleData name="Amount">$7,680,000</SimpleData>
+			<SimpleData name="Project">Grow BC biotech by advancing in-vitro and in-situ antiviral therapy for SARS-CoV2 variants</SimpleData>
+			<SimpleData name="Client">The University of British Columbia</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">14</SimpleData>
+			<SimpleData name="Amount">$3,500,000</SimpleData>
+			<SimpleData name="Project">Grow BC biotech by improving the delivery technology behind the mRNA vaccines</SimpleData>
+			<SimpleData name="Client">The University of British Columbia</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">19</SimpleData>
+			<SimpleData name="Amount">$2,046,760</SimpleData>
+			<SimpleData name="Project">Establish Centre for Environmental and Food Analysis for testing of clean technologies</SimpleData>
+			<SimpleData name="Client">Simon Fraser University</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.98050000000001,49.248800000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">21</SimpleData>
+			<SimpleData name="Amount">$1,906,000</SimpleData>
+			<SimpleData name="Project">Establish the Environmental Solutions Innovation Hub in Prince George</SimpleData>
+			<SimpleData name="Client">University of Northern British Columbia</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.7497,53.917099999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">22</SimpleData>
+			<SimpleData name="Amount">$1,800,000</SimpleData>
+			<SimpleData name="Project">Expand the capabilities of SFU's WearTech lab to test and commercialize new products</SimpleData>
+			<SimpleData name="Client">Simon Fraser University</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.98050000000001,49.248800000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">30</SimpleData>
+			<SimpleData name="Amount">$1,040,000</SimpleData>
+			<SimpleData name="Project">Advance circular economy in BC through SME product development and testing</SimpleData>
+			<SimpleData name="Client">The University of British Columbia</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-120.32729999999999,50.674500000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">51</SimpleData>
+			<SimpleData name="Amount">$599,000</SimpleData>
+			<SimpleData name="Project">Increase capacity at Simon Fraser University's Big Data Hub to support SME growth</SimpleData>
+			<SimpleData name="Client">Simon Fraser University</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.98050000000001,49.248800000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">193</SimpleData>
+			<SimpleData name="Amount">$25,000</SimpleData>
+			<SimpleData name="Project">Deliver the Equity Diversity and Inclusion (EDI) Conference</SimpleData>
+			<SimpleData name="Client">Vancouver Board of Trade</SimpleData>
+			<SimpleData name="Program_">Regional Innovation Ecosystem</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>

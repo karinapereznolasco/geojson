@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Projects</name>
+<Schema name="Projects" id="Projects">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Amount" type="string"></SimpleField>
+	<SimpleField name="Project" type="string"></SimpleField>
+	<SimpleField name="Client" type="string"></SimpleField>
+	<SimpleField name="Program_" type="string"></SimpleField>
+</Schema>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">3</SimpleData>
+			<SimpleData name="Amount">$10,000,000</SimpleData>
+			<SimpleData name="Project">Perform infrastructure modernization and gallery upgrades for Science World - Budget 2021</SimpleData>
+			<SimpleData name="Client">A.S.T.C. Science World Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">29</SimpleData>
+			<SimpleData name="Amount">$1,100,000</SimpleData>
+			<SimpleData name="Project">Deliver a recreational snowmobile trail program in BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">British Columbia Snowmobile Federation</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-119.8295,49.202500000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">60</SimpleData>
+			<SimpleData name="Amount">$500,000</SimpleData>
+			<SimpleData name="Project">Help BC tourism businesses adopt sustainability practices - Budget 2021</SimpleData>
+			<SimpleData name="Client">Thompson Okanagan Tourism Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-120.32729999999999,50.674500000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">63</SimpleData>
+			<SimpleData name="Amount">$500,000</SimpleData>
+			<SimpleData name="Project">Modernization and expansion of Haida Gwaii tourism in BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Secretariat of the Haida Nation</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-131.929,53.563000000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">64</SimpleData>
+			<SimpleData name="Amount">$500,000</SimpleData>
+			<SimpleData name="Project">Develop digital tools to expand adventure tourism - Budget 2021</SimpleData>
+			<SimpleData name="Client">Yervana Services Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">66</SimpleData>
+			<SimpleData name="Amount">$495,500</SimpleData>
+			<SimpleData name="Project">Develop and implement BC tourism and hospitality labour recovery initiative - Budget 2021</SimpleData>
+			<SimpleData name="Client">GO2 Tourism HR Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">74</SimpleData>
+			<SimpleData name="Amount">$450,000</SimpleData>
+			<SimpleData name="Project">Expand and extend the season of pride activities in Vancouver - Budget 2021</SimpleData>
+			<SimpleData name="Client">Vancouver Pride Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">76</SimpleData>
+			<SimpleData name="Amount">$435,375</SimpleData>
+			<SimpleData name="Project">Build an Indigenous cookhouse to expand tourism offerings in Ucluelet - Budget 2021</SimpleData>
+			<SimpleData name="Client">Toquaht Nation</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-125.5463,48.941600000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">81</SimpleData>
+			<SimpleData name="Amount">$400,000</SimpleData>
+			<SimpleData name="Project">Rebuild vessel and relaunch cruise operations along the BC coast - Budget 2021</SimpleData>
+			<SimpleData name="Client">Pacific Coastal Cruises &amp; Tours LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">83</SimpleData>
+			<SimpleData name="Amount">$387,900</SimpleData>
+			<SimpleData name="Project">Launch a Tla-o-qui-aht cultural experience and expand presence in Tribal Parks-Budget 2021</SimpleData>
+			<SimpleData name="Client">Tla-o-qui-aht First Nation</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-125.9066,49.152999999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">103</SimpleData>
+			<SimpleData name="Amount">$249,000</SimpleData>
+			<SimpleData name="Project">Implement a community tourism strategic plan for Greater Terrace - Budget 2021</SimpleData>
+			<SimpleData name="Client">Kermodei Tourism Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-128.60319999999999,54.5182</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">104</SimpleData>
+			<SimpleData name="Amount">$231,500</SimpleData>
+			<SimpleData name="Project">Develop Highway 3 Corridor as a BC touring destination - Budget 2021</SimpleData>
+			<SimpleData name="Client">Kootenay Rockies Tourism Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-115.9967,49.665199999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">106</SimpleData>
+			<SimpleData name="Amount">$225,000</SimpleData>
+			<SimpleData name="Project">Create a new arts and cultural hub for visitors to Langford - Budget 2021</SimpleData>
+			<SimpleData name="Client">City of Langford</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.3656,48.428400000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">107</SimpleData>
+			<SimpleData name="Amount">$220,500</SimpleData>
+			<SimpleData name="Project">Create a canoe-carving experience at the Spo7ez Cultural Centre in Whistler - Budget 2021</SimpleData>
+			<SimpleData name="Client">The Spo7ez Cultural Centre and Community Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.95350000000001,50.116199999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">108</SimpleData>
+			<SimpleData name="Amount">$219,600</SimpleData>
+			<SimpleData name="Project">Expand an adaptive bike rental company in Kelowna-Budget 2021</SimpleData>
+			<SimpleData name="Client">Elevation Outdoors Experiential Programs Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-120.32729999999999,50.674500000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">112</SimpleData>
+			<SimpleData name="Amount">$191,000</SimpleData>
+			<SimpleData name="Project">Upgrade the Powell Forest Canoe Route in Powell River - Budget 2021</SimpleData>
+			<SimpleData name="Client">Powell River Educational Services Society (PRESS)</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-124.5247,49.8352</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">114</SimpleData>
+			<SimpleData name="Amount">$173,000</SimpleData>
+			<SimpleData name="Project">Improve parking and road access to Morfee Mountain in Mackenzie, BC-Budget 2021</SimpleData>
+			<SimpleData name="Client">Mackenzie Outdoor Route and Trail Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.0945,55.338099999999997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">117</SimpleData>
+			<SimpleData name="Amount">$150,500</SimpleData>
+			<SimpleData name="Project">Facilitate accessible tourism experiences and workplaces in Northern BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Northern British Columbia Tourism Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.7497,53.917099999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">118</SimpleData>
+			<SimpleData name="Amount">$150,000</SimpleData>
+			<SimpleData name="Project">Develop Indigenous programs, events and exhibits in New Westminster - Budget 2021</SimpleData>
+			<SimpleData name="Client">Fraser River Discovery Centre Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.911,49.2057</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">121</SimpleData>
+			<SimpleData name="Amount">$135,000</SimpleData>
+			<SimpleData name="Project">Develop a Destination Management Plan for Revelstoke - Budget 2021</SimpleData>
+			<SimpleData name="Client">Revelstoke Accommodation Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-118.1957,50.998100000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">124</SimpleData>
+			<SimpleData name="Amount">$125,000</SimpleData>
+			<SimpleData name="Project">Support a winter event to promote seasonal dispersion of tourists in Vernon - Budget 2021</SimpleData>
+			<SimpleData name="Client">Vernon Winter Carnival Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-119.27200000000001,50.267000000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">130</SimpleData>
+			<SimpleData name="Amount">$100,000</SimpleData>
+			<SimpleData name="Project">Expand Indigenous experiences at Cheakamus Centre in Brackendale-Budget 2021</SimpleData>
+			<SimpleData name="Client">Cheakamus Foundation, School District No.44</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1491,49.765999999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">131</SimpleData>
+			<SimpleData name="Amount">$100,000</SimpleData>
+			<SimpleData name="Project">Assess assets and develop a tourism plan for the Cranbrook region - Budget 2021</SimpleData>
+			<SimpleData name="Client">Cranbrook and Region Tourism Society</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-115.7694,49.512999999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">132</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Upgrade rodeo venue infrastructure for tourism in 150 Mile House, BC- Budget 2021</SimpleData>
+			<SimpleData name="Client">1346417 BC LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-121.92829999999999,52.104100000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">133</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Support a golf resort upgrade to attract tourists to the Cariboo region - Budget 2021</SimpleData>
+			<SimpleData name="Client">1093532 B.C. LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-121.3455,51.750300000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">134</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Upgrade health, safety and inclusiveness of the facilities at Sechart Lodge - Budget 2021</SimpleData>
+			<SimpleData name="Client">Sechart Whaling Station Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-125.14279999999999,48.833300000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">135</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Deliver micro-learning online platform to support tourism operator recovery - Budget 2021</SimpleData>
+			<SimpleData name="Client">Tourism Cafe Canada LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-124.92829999999999,49.673499999999997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">136</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Deliver a mountain bike event in Whistler 2022 -Budget 2021</SimpleData>
+			<SimpleData name="Client">Crankworx Events INC.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1219,49.742600000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">137</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Upgrade on-mountain lodge facilities and infrastructure near Golden, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Iconoclast Developments LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-116.9631,51.296100000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">138</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Improve dock to accommodate floatplanes on Okanagan Lake in Kelowna - Budget 2021</SimpleData>
+			<SimpleData name="Client">Argus Properties LTD., Hotel Eldorado Limited Partnership</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-120.32729999999999,50.674500000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">139</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Develop agri-tourism and accommodations near Kimberly, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Canadian Rockies River Expeditions</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-115.9967,49.665199999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">140</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Upgrade lodge in Great Bear Rainforest to meet COVID-19 protocols - Budget 2021</SimpleData>
+			<SimpleData name="Client">Spirit Bear Adventures LTD, Spirit Bear Adventures LP</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-128.5241,52.593600000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">141</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Expand and upgrade resort facilities to attract visitors to Fishing Highway-Budget 2021</SimpleData>
+			<SimpleData name="Client">Lac Des Roches Resort LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-121.20099999999999,51.554699999999997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">142</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Build additional accommodations on ranch in South Cariboo area, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Wettstone Guest Ranch LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-121.20099999999999,51.554699999999997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">143</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Design and produce authentic Indigenous tourism products for the BC market - Budget 2021</SimpleData>
+			<SimpleData name="Client">Ay Lelum The Good House of Design Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.9401,49.165900000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">144</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Enhance cruise packages to promote multi-day tourism across BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">CruisePlus Management Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.9401,49.165900000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">145</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Revive and expand the West Coast Women's Show in Abbotsford- Budget 2021</SimpleData>
+			<SimpleData name="Client">Encore Exhibitions Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.0724,49.32</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">146</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Expand tourism offering of self-drive RV tours and itineraries - Budget 2021</SimpleData>
+			<SimpleData name="Client">ERTCU Travel Group Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-119.5937,49.499099999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">147</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Acquire new boat to expand tour capacity in Port Hardy, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Coastal Rainforest Safaris Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-127.4969,50.720700000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">148</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Expand tourism season through upgrades to facilities in Nimmo Bay - Budget 2021</SimpleData>
+			<SimpleData name="Client">Nimmo Bay Resort Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-127.0848,50.5901</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">149</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Build a venue to extend golf season and attract visitors to Prince George - Budget 2021</SimpleData>
+			<SimpleData name="Client">Alder Hills Hold CO. LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.7497,53.917099999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">150</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Expand an aerial park with an adventure obstacle course in Radium Hot Springs-Budget 2021</SimpleData>
+			<SimpleData name="Client">Valley Zipline Adventures LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-116.07340000000001,50.619999999999997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">151</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Build a bike skills park for visitors to a mountain resort - Budget 2021</SimpleData>
+			<SimpleData name="Client">Revelstoke Mountain Resort Inc., Revelstoke Mountain Resort Limited Partnership</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-118.1957,50.998100000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">152</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Establish cabin retreat and backcountry guide business in Revelstoke - Budget 2021</SimpleData>
+			<SimpleData name="Client">1375647 Alberta LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-118.1957,50.998100000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">153</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Upgrade a small passenger vessel to improve the health and safety of tourists- Budget 2021</SimpleData>
+			<SimpleData name="Client">Ocean Light Adventures LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1336,49.166600000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">154</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Launch direct air service to Qualicum Beach, BC -Budget 2021</SimpleData>
+			<SimpleData name="Client">Iskwew Air Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1336,49.166600000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">155</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Purchase a bus to increase the capacity of tour operations in BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Bestcan Tours Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1336,49.166600000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">156</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Support a key night market to bring back visitors to Richmond, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Firework Productions Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1336,49.166600000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">157</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Build staff housing to scale-up tourism activities in Haida Gwaii - Budget 2021</SimpleData>
+			<SimpleData name="Client">The Moresby Explorers Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-131.82089999999999,53.243000000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">158</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Expand a motorcycle rental company to increase motorcycle tourism in BC-Budget 2021</SimpleData>
+			<SimpleData name="Client">Renedian Adventures Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-119.68340000000001,49.603200000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">159</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Upgrade remote lodge facilities on Berry Island to capture wellness market - Budget 2021</SimpleData>
+			<SimpleData name="Client">Farewell Harbour Lodge Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-126.8323,50.549199999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">160</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Enhance Kitsumkalum Indigenous cultural experiences near Terrace BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">1254467 B.C. LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-128.60319999999999,54.5182</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">161</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Purchase a bus for guided day tours of urban centres in southwest BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Uniglobe Specialty Travel Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1207,49.282699999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">162</SimpleData>
+			<SimpleData name="Amount">$99,999</SimpleData>
+			<SimpleData name="Project">Build glamping accommodations in the Callaghan Valley - Budget 2021</SimpleData>
+			<SimpleData name="Client">Canadian Wilderness Adventures Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.95350000000001,50.116199999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">163</SimpleData>
+			<SimpleData name="Amount">$99,900</SimpleData>
+			<SimpleData name="Project">Renovate remote First Nation lodges for visitors to the Nemaiah Valley - Budget 2021</SimpleData>
+			<SimpleData name="Client">Xeni Gwet'in First Nations Government</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.88330000000001,51.4833</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">164</SimpleData>
+			<SimpleData name="Amount">$99,000</SimpleData>
+			<SimpleData name="Project">Construct floatplane dock and terminal in Squamish, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Harbour Air Seaplanes LLP, Harbour Air LTD., Harbour Air Holdings GP LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1558,49.701599999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">165</SimpleData>
+			<SimpleData name="Amount">$98,500</SimpleData>
+			<SimpleData name="Project">Expand existing accommodations in Dease Lake, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Arctic Divide Lodge LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-129.99940000000001,58.437399999999997</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">167</SimpleData>
+			<SimpleData name="Amount">$97,500</SimpleData>
+			<SimpleData name="Project">Renovate and upgrade the Burnie Glacier Chalet in BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Bear Enterprises Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-127.1686,54.782400000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">168</SimpleData>
+			<SimpleData name="Amount">$96,000</SimpleData>
+			<SimpleData name="Project">Enhance safety and capacity for skydiving tourism business in Golden, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Extreme Yeti Adventures LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-116.9631,51.296100000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">172</SimpleData>
+			<SimpleData name="Amount">$89,000</SimpleData>
+			<SimpleData name="Project">Purchase a shuttle van to modernize tour operations in BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">682282 B.C. LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.98050000000001,49.248800000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">173</SimpleData>
+			<SimpleData name="Amount">$85,000</SimpleData>
+			<SimpleData name="Project">Purchase vehicle and develop French tours in the Okanagan - Budget 2021</SimpleData>
+			<SimpleData name="Client">Carpe Diem Tours Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-120.32729999999999,50.674500000000002</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">175</SimpleData>
+			<SimpleData name="Amount">$69,700</SimpleData>
+			<SimpleData name="Project">Create a virtual reality of key attractions in Greater Victoria - Budget 2021</SimpleData>
+			<SimpleData name="Client">Victoria Attractions Association</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.3656,48.428400000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">177</SimpleData>
+			<SimpleData name="Amount">$62,000</SimpleData>
+			<SimpleData name="Project">Create virtual heritage walking tours in Barkerville, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">The Barkerville Heritage Trust</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-121.5138,53.070399999999999</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">178</SimpleData>
+			<SimpleData name="Amount">$56,960</SimpleData>
+			<SimpleData name="Project">Enhance classes and workshops of Indigenous art gallery in West Kelowna, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Greenberg Lambert, Louise J</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-119.5645,49.863599999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">181</SimpleData>
+			<SimpleData name="Amount">$50,000</SimpleData>
+			<SimpleData name="Project">Expand Hallowe-en events around Burnaby, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Tourism Burnaby</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-122.98050000000001,49.248800000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">183</SimpleData>
+			<SimpleData name="Amount">$50,000</SimpleData>
+			<SimpleData name="Project">Relaunch, enhance and develop new food-tasting tours in Greater Vancouver - Budget 2021</SimpleData>
+			<SimpleData name="Client">Vancouver Foodie Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-123.1336,49.166600000000003</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">185</SimpleData>
+			<SimpleData name="Amount">$49,224</SimpleData>
+			<SimpleData name="Project">Install solar power at an off-grid facility in the Cariboo-Chilko region - Budget 2021</SimpleData>
+			<SimpleData name="Client">R.O.A.M. Adventures Inc.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-115.78579999999999,49.783000000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">188</SimpleData>
+			<SimpleData name="Amount">$40,630</SimpleData>
+			<SimpleData name="Project">Develop a tourism asset inventory, wayfinding strategy and e-bike service - Budget 2021</SimpleData>
+			<SimpleData name="Client">District of 100 Mile House</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-121.295,51.643999999999998</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">192</SimpleData>
+			<SimpleData name="Amount">$28,500</SimpleData>
+			<SimpleData name="Project">Expand business to offer other seasonal activities near Tumbler Ridge, BC - Budget 2021</SimpleData>
+			<SimpleData name="Client">Compass Mountain Outfitters LTD.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-115.78579999999999,49.783000000000001</coordinates>
+	</Point>
+</Placemark>
+<Placemark>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Projects">
+			<SimpleData name="OBJECTID">196</SimpleData>
+			<SimpleData name="Amount">$6,651</SimpleData>
+			<SimpleData name="Project">Enhance an Indigenous art gallery in Ucluelet - Budget 2021</SimpleData>
+			<SimpleData name="Client">Cedar House Gallery Ltd.</SimpleData>
+			<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Point>
+		<coordinates>-125.5463,48.941600000000001</coordinates>
+	</Point>
+</Placemark>
+</Folder></Document></kml>
