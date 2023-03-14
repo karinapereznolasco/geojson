@@ -8,7 +8,7 @@
 	<SimpleField name="Amount" type="string"></SimpleField>
 	<SimpleField name="Project" type="string"></SimpleField>
 	<SimpleField name="Client" type="string"></SimpleField>
-	<SimpleField name="Program_" type="string"></SimpleField>
+	<SimpleField name="Program" type="string"></SimpleField>
 </Schema>
 <Placemark>
 	<ExtendedData>
@@ -17,7 +17,7 @@
 			<SimpleData name="Amount">$5,566,480</SimpleData>
 			<SimpleData name="Project">Implement a disaster recovery and economic adjustment initiative in British Columbia</SimpleData>
 			<SimpleData name="Client">Community Futures Development Association of B.C.</SimpleData>
-			<SimpleData name="Program_">Western Diversification Program</SimpleData>
+			<SimpleData name="Program">Western Diversification Program</SimpleData>
 		</SchemaData>
 	</ExtendedData>
 	<Point>
