@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>Projects</name>
+<Schema name="Projects" id="Projects">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="Amount" type="string"></SimpleField>
+	<SimpleField name="Project" type="string"></SimpleField>
+	<SimpleField name="Client" type="string"></SimpleField>
+	<SimpleField name="Program_" type="string"></SimpleField>
+</Schema>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">10</SimpleData>
+      <SimpleData name="Amount">$5,098,602</SimpleData>
+      <SimpleData name="Project">Restore air service to BC and Alberta communities impacted by COVID-19</SimpleData>
+      <SimpleData name="Client">Pacific Coastal Airlines Limited</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-123.16804,49.179876</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">13</SimpleData>
+      <SimpleData name="Amount">$5,000,000</SimpleData>
+      <SimpleData name="Project">Restore and expand air service to communities in BC and Alberta impacted by COVID-19</SimpleData>
+      <SimpleData name="Client">Central Mountain Air Ltd., 580741 British Columbia Ltd.</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-127.170016,54.780994</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">23</SimpleData>
+      <SimpleData name="Amount">$3,261,330</SimpleData>
+      <SimpleData name="Project">Provide support to Kelowna International Airport operations during COVID-19</SimpleData>
+      <SimpleData name="Client">City of Kelowna</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-119.383546,49.952988</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">27</SimpleData>
+      <SimpleData name="Amount">$2,320,000</SimpleData>
+      <SimpleData name="Project">Modernize hold bag screening at Abbotsford International Airport for travel post-COVID-19</SimpleData>
+      <SimpleData name="Client">City of Abbotsford</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-122.377419,49.027738</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">87</SimpleData>
+      <SimpleData name="Amount">$609,584</SimpleData>
+      <SimpleData name="Project">Provide support to Canadian Rockies International Airport operations during COVID-19</SimpleData>
+      <SimpleData name="Client">The Corporation of the City of Cranbrook</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-115.792286,49.603024</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">100</SimpleData>
+      <SimpleData name="Amount">$505,848</SimpleData>
+      <SimpleData name="Project">Provide support for West Kootenay Regional Airport operations during COVID-19</SimpleData>
+      <SimpleData name="Client">The City of Castlegar</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-117.666493,49.324949</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">101</SimpleData>
+      <SimpleData name="Amount">$505,616</SimpleData>
+      <SimpleData name="Project">Provide support to Smithers Regional Aiport to restore air service impacted by COVID-19</SimpleData>
+      <SimpleData name="Client">Town of Smithers</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-127.161991,54.776051</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">162</SimpleData>
+      <SimpleData name="Amount">$328,322</SimpleData>
+      <SimpleData name="Project">Provide support to Northern Rockies Regional Airport to restore services after COVID-19</SimpleData>
+      <SimpleData name="Client">Northern Rockies Regional Municipality</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-117.291978,49.49422</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">163</SimpleData>
+      <SimpleData name="Amount">$328,322</SimpleData>
+      <SimpleData name="Project">Provide support for Tofino/Longbeach Airport operations and maintenance during COVID-19</SimpleData>
+      <SimpleData name="Client">Regional District of Alberni-Clayoquot</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-125.8917381,49.1311621</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">164</SimpleData>
+      <SimpleData name="Amount">$328,322</SimpleData>
+      <SimpleData name="Project">Provide support to Dease Lake Regional Airport to restore services impacted by COVID-19</SimpleData>
+      <SimpleData name="Client">Stikine Airport Society</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-130.03,58.4229</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">165</SimpleData>
+      <SimpleData name="Amount">$326,518</SimpleData>
+      <SimpleData name="Project">Provide support for Quesnel Regional Airport operations during COVID-19</SimpleData>
+      <SimpleData name="Client">City of Quesnel</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-122.4347885,52.95933664</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">230</SimpleData>
+      <SimpleData name="Amount">$130,000</SimpleData>
+      <SimpleData name="Project">Install an aviation fuel tank at Williams Lake Regional Airport for travel after COVID-19</SimpleData>
+      <SimpleData name="Client">City of Williams Lake</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-122.141453,52.128465</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <ExtendedData>
+    <SchemaData schemaUrl="#Projects">
+      <SimpleData name="OBJECTID">361</SimpleData>
+      <SimpleData name="Amount">$54,720</SimpleData>
+      <SimpleData name="Project">Create terminal expansion design for Anahim Lake Airport for travel after COVID-19</SimpleData>
+      <SimpleData name="Client">Cariboo Regional District</SimpleData>
+      <SimpleData name="Program_">Regional Air Transportation Initiative</SimpleData>
+    </SchemaData>
+  </ExtendedData>
+  <Point>
+    <coordinates>-125.316667,52.466667</coordinates>
+  </Point>
+</Placemark>
+</Folder></Document></kml>
