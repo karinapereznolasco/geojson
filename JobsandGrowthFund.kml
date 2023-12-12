@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml
+	xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Folder>
+			<name>Projects</name>
+			<Schema name="Projects" id="Projects">
+				<SimpleField name="Name" type="string"></SimpleField>
+				<SimpleField name="Description" type="string"></SimpleField>
+				<SimpleField name="OBJECTID" type="int"></SimpleField>
+				<SimpleField name="Amount" type="string"></SimpleField>
+				<SimpleField name="Project" type="string"></SimpleField>
+				<SimpleField name="Client" type="string"></SimpleField>
+				<SimpleField name="Program_" type="string"></SimpleField>
+			</Schema>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">4</SimpleData>
+						<SimpleData name="Amount">$9,750,000</SimpleData>
+						<SimpleData name="Project">Increase Manufacturing of Hydrogen Fuel Cell Stacks & Modules - Budget 2021</SimpleData>
+						<SimpleData name="Client">Loop Energy Inc.</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-122.915465,49.258432</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">12</SimpleData>
+						<SimpleData name="Amount">$5,000,000</SimpleData>
+						<SimpleData name="Project">Expand markets for sales enablement software platform - Budget 2021</SimpleData>
+						<SimpleData name="Client">Cassia Research INC.</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-123.1215452,49.28798511</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">19</SimpleData>
+						<SimpleData name="Amount">$4,692,000</SimpleData>
+						<SimpleData name="Project">Expand commercialization and scale-up services for health technology SMEs - Budget 2021</SimpleData>
+						<SimpleData name="Client">AGE-WELL National Innovation Hub Foundation - BC</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-123.1049384,49.2818335</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">21</SimpleData>
+						<SimpleData name="Amount">$3,658,746</SimpleData>
+						<SimpleData name="Project">Harness geothermal energy underneath Kitselas First Nation - Budget 2021</SimpleData>
+						<SimpleData name="Client">Kitselas Geothermal Inc.</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-128.644823,54.519414</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">26</SimpleData>
+						<SimpleData name="Amount">$2,635,300</SimpleData>
+						<SimpleData name="Project">Expand Construction Safety Management Platform to Support Enterprise Clients - Budget 2021</SimpleData>
+						<SimpleData name="Client">Salus Technologies Inc.</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-123.113632,49.284877</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">46</SimpleData>
+						<SimpleData name="Amount">$1,146,483</SimpleData>
+						<SimpleData name="Project">Increase capacity to export sensors for the semiconductor industry - Budget 2021</SimpleData>
+						<SimpleData name="Client">Accelovant Technologies Corporation</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-123.096872,49.314787</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<ExtendedData>
+					<SchemaData schemaUrl="#Projects">
+						<SimpleData name="OBJECTID">51</SimpleData>
+						<SimpleData name="Amount">$910,733</SimpleData>
+						<SimpleData name="Project">Establish wiring harness manufacturing in the Kootenay region - Budget 2021</SimpleData>
+						<SimpleData name="Client">Valid Manufacturing Ltd.</SimpleData>
+						<SimpleData name="Program_">Jobs and Growth Fund</SimpleData>
+					</SchemaData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-117.295334,49.493217</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
