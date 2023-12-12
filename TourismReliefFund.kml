@@ -453,7 +453,7 @@
 						<SimpleData name="OBJECTID">157</SimpleData>
 						<SimpleData name="Amount">$355,000</SimpleData>
 						<SimpleData name="Project">Support the expansion of a Latin American heritage month festival - Budget 2021</SimpleData>
-						<SimpleData name="Client">Latincouver Cultural & Business Society</SimpleData>
+						<SimpleData name="Client">Latincouver Cultural &amp; Business Society</SimpleData>
 						<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
 					</SchemaData>
 				</ExtendedData>
@@ -635,7 +635,7 @@
 						<SimpleData name="OBJECTID">203</SimpleData>
 						<SimpleData name="Amount">$200,000</SimpleData>
 						<SimpleData name="Project">Enhance a tourism offerings and visitor centre in Castlegar - Budget 2021</SimpleData>
-						<SimpleData name="Client">Castlegar & District Chamber of Commerce</SimpleData>
+						<SimpleData name="Client">Castlegar &amp; District Chamber of Commerce</SimpleData>
 						<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
 					</SchemaData>
 				</ExtendedData>
@@ -1517,7 +1517,7 @@
 						<SimpleData name="OBJECTID">289</SimpleData>
 						<SimpleData name="Amount">$99,999</SimpleData>
 						<SimpleData name="Project">Expand capacity for wine tours in Kelowna, BC - Budget 2021</SimpleData>
-						<SimpleData name="Client">Vines & Views Tours & Rentals Inc.</SimpleData>
+						<SimpleData name="Client">Vines &amp; Views Tours &amp; Rentals Inc.</SimpleData>
 						<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
 					</SchemaData>
 				</ExtendedData>
@@ -1657,7 +1657,7 @@
 						<SimpleData name="OBJECTID">299</SimpleData>
 						<SimpleData name="Amount">$99,999</SimpleData>
 						<SimpleData name="Project">Develop small self-drive group itineraries and tours in rural B.C. - Budget 2021</SimpleData>
-						<SimpleData name="Client">Canadian Sun & Mountains Travel Corporation</SimpleData>
+						<SimpleData name="Client">Canadian Sun &amp; Mountains Travel Corporation</SimpleData>
 						<SimpleData name="Program_">Tourism Relief Fund</SimpleData>
 					</SchemaData>
 				</ExtendedData>
